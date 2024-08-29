@@ -1,0 +1,155 @@
+@media (max-width: 788px) {
+    .header__nav {
+        height: 120px !important;
+    }
+
+    .header__content {
+        justify-content: center !important;
+    }
+
+    .header__list {
+        margin-top: 30px;
+    }
+
+}
+
+@media (max-width: 400px) {
+
+    .header__nav {
+        height: 140px !important;
+    }
+
+
+
+}
+
+@media (max-width: 782px) {
+    .shoe__content {
+        justify-content: center !important;
+        flex-wrap: wrap !important;
+    }
+
+}
+
+@media (max-width: 550px) {
+    .shoe__block {
+        width: 400px !important;
+        height: 370px !important;
+    }
+
+    .shoe__block img {
+        width: 370px;
+    }
+
+    .shoe__block-text {
+        font-size: 12px !important;
+    }
+
+    .shoe__info-block {
+        width: 180px !important;
+    }
+
+    .shoe__info-block img {
+        width: 75px;
+    }
+
+    .shoe__info-title {
+        font-size: 17px !important;
+    }
+
+    .shoe__info-text {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 392px) {
+    .shoe__block {
+        width: 320px !important;
+        height: 370px !important;
+    }
+
+    .shoe__block img {
+        width: 290px;
+    }
+
+    .shoe__block-text {
+        font-size: 12px !important;
+    }
+
+    .shoe__info-block {
+        width: 150px !important;
+    }
+}
+
+@media (max-width: 354px){
+    .shoe__block {
+        width: 300px !important;
+        height: 370px !important;
+    }
+
+    .shoe__block img {
+        width: 270px;
+    }
+
+    .shoe__block-text {
+        font-size: 11px !important;
+    }
+
+    .shoe__info-block {
+        width: 140px !important;
+    }
+
+    .shoe__info-block img{
+        width: 55px;
+    }
+
+    .shoe__info-title{
+        font-size: 15px !important;
+    }
+
+    .shoe__info-text{
+        font-size: 8px;
+    }
+
+
+
+}
+
+@media (max-width: 663px) {
+    .footer__form {
+        margin-left: 30px !important;
+    }
+
+    .footer__form input {
+        width: 250px !important;
+    }
+
+    .footer__form textarea {
+        width: 250px !important;
+    }
+
+    .footer__form button {
+        width: 250px !important;
+    }
+
+    .footer__list li {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 710px){
+    .footer__ul{
+        justify-content: center !important;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 579px) {
+    .footer__content {
+        justify-content: center !important;
+        flex-wrap: wrap !important;
+    }
+    
+}
+
+
